@@ -1,0 +1,14 @@
+[1mdiff --git a/example.txt b/example.txt[m
+[1mindex 6a71fa9..57e1ddb 100644[m
+[1m--- a/example.txt[m
+[1m+++ b/example.txt[m
+[36m@@ -1,4 +1,6 @@[m
+ This is an example[m
+ Testing add commit and push[m
+ [m
+[31m-NEW LINE[m
+\ No newline at end of file[m
+[32m+[m[32mNEW LINE[m
+[32m+[m
+[32m+[m[32mand another one[m
+\ No newline at end of file[m
