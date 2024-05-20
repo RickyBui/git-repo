@@ -1,2 +1,4 @@
 This is an example
 Testing add commit and push
+
+NEW LINE
