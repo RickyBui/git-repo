@@ -1,1 +1,1 @@
-Example for new-repo
+Example
